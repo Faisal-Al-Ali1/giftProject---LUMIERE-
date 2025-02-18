@@ -55,15 +55,6 @@ You can view the design of this project here: [Figma Link](https://www.figma.com
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 - **Backend**: Firebase (Real-time Database and Authentication)
 
-## Contributors
-
-- **Alaa Saadi**: Product Owner
-- **Faisal Al-Ali**: Quality Assurance
-- **Mustafa Obeidat**: Web Developer
-- **Ahmad Alnajjar**: Web Developer
-- **Heba Maaitah**: Scrum Master
-- **Marya Benyan**: Web Developer
-
 ## Installation
 
 1. Clone the repository:
